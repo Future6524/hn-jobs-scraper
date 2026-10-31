@@ -155,4 +155,4 @@ Free-text job posts are messy, so expect roughly 90% accuracy, not perfection. E
 
 I build reliable, maintainable scrapers and data pipelines: job boards, e-commerce catalogs, real-estate listings, lead lists, and price monitoring. Delivery is CSV, Excel, Google Sheets, a database or an API.
 
-**Contact me on Reddit: [u/YOUR_REDDIT_USERNAME](https://www.reddit.com/user/YOUR_REDDIT_USERNAME)**
+**Contact me on Reddit: [u/PRETTYsaveliev](https://www.reddit.com/user/PRETTYsaveliev)**
