@@ -3,7 +3,6 @@
 **Turn the latest Hacker News "Ask HN: Who is hiring?" thread into a clean, filterable spreadsheet in about five seconds.**
 
 ![Screenshot of jobs.xlsx](docs/screenshot.png)
-<!-- Screenshot placeholder: add docs/screenshot.png (terminal summary + jobs.xlsx open in Excel/Sheets) -->
 
 ---
 
