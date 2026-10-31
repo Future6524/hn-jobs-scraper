@@ -6,6 +6,8 @@
 
 ▶ **[Watch the 55-second demo](https://youtu.be/vXRHD_D9cBk)**: one command, then the progress bar, the summary, and the finished spreadsheet.
 
+![Screenshot of jobs.xlsx](docs/screenshot.png)
+
 ---
 
 ## Features
