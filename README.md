@@ -2,7 +2,9 @@
 
 **Turn the latest Hacker News "Ask HN: Who is hiring?" thread into a clean, filterable spreadsheet in about five seconds.**
 
-![Screenshot of jobs.xlsx](docs/screenshot.png)
+[![Demo video: running hn-jobs-scraper and opening jobs.xlsx](docs/demo.png)](https://youtu.be/vXRHD_D9cBk)
+
+▶ **[Watch the 55-second demo](https://youtu.be/vXRHD_D9cBk)**: one command, then the progress bar, the summary, and the finished spreadsheet.
 
 ---
 
